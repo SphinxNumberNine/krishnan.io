@@ -156,7 +156,7 @@ export const experience: TimelineItem[] = [
   },
   {
     date: 'June 2021 - June 2022',
-    location: 'UnitedHealth Group',
+    location: 'Optum Technology',
     title: 'Technology Development Program Associate (Software Engineer)',
     content: (
       <p>
@@ -199,7 +199,7 @@ export const experience: TimelineItem[] = [
   },
   {
     date: 'Summer 2020',
-    location: 'UnitedHealth Group',
+    location: 'Optum Technology',
     title: 'Technology Intern',
     content: (
       <p>
