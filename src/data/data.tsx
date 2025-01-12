@@ -105,7 +105,7 @@ export const aboutData: About = {
   aboutItems: [
     {label: 'Location', text: 'New York, NY', Icon: MapIcon},
     {label: 'Age', text: age, Icon: CalendarIcon},
-    {label: 'Nationality', text: 'Indian', Icon: FlagIcon},
+    // {label: 'Nationality', text: 'Indian', Icon: FlagIcon},
     // {label: 'Interests', text: 'Motorcycles, Muay Thai, Banjos', Icon: SparklesIcon},
     {label: 'Study', text: 'University of Maryland', Icon: AcademicCapIcon},
     {label: 'Employment', text: 'Capital One Financial Corporation', Icon: BuildingOffice2Icon},
