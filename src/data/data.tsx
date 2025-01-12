@@ -16,7 +16,7 @@ import {
   SteamIcon,
   TwitterIcon,
   YoutubeIcon} from '../components/Icon/Icon';
-import heroImage from "../images/japan_boat_background_downscaled.jpg"
+import heroImage from "../images/background.jpg"
 import profilepic from '../images/profilepic.jpg';
 import {
   About,
