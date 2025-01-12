@@ -7,8 +7,6 @@ import {
   MapIcon,
 } from '@heroicons/react/24/outline';
 
-import heroImage from "/header_background.jpg"
-import profilepic from '/profilepic.jpg';
 import {
   ChessIcon,
   GithubIcon,
@@ -18,6 +16,8 @@ import {
   SteamIcon,
   TwitterIcon,
   YoutubeIcon} from '../components/Icon/Icon';
+import heroImage from "../images/header_background.jpg"
+import profilepic from '../images/profilepic.jpg';
 import {
   About,
   ContactSection,
