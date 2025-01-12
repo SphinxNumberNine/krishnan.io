@@ -32,10 +32,8 @@ const ContactForm: FC = memo(() => {
   const handleSendMessage = useCallback(
     async (event: React.FormEvent<HTMLFormElement>) => {
       event.preventDefault();
-      /**
-       * This is a good starting point to wire up your form submission logic
-       * */
       console.log('Data to send: ', data);
+      alert("Site is having issues with the email provider right now. Please contact me at one of the other listed contact methods!")
     },
     [data],
   );

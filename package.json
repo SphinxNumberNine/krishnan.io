@@ -12,10 +12,20 @@
     "sitemap": "yarn next-sitemap"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/free-regular-svg-icons": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@headlessui/react": "^1.7.16",
     "@heroicons/react": "^2.0.18",
+    "@sendgrid/mail": "^8.1.4",
     "autoprefixer": "10.4.16",
     "classnames": "^2.3.2",
+    "dotenv": "^16.4.7",
+    "emailjs": "^4.0.3",
+    "fs": "^0.0.1-security",
     "next": "^14.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -60,5 +70,6 @@
   },
   "resolutions": {
     "autoprefixer": "10.4.5"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
