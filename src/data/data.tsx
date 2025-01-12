@@ -3,7 +3,6 @@ import {
   ArrowDownTrayIcon,
   BuildingOffice2Icon,
   CalendarIcon,
-  FlagIcon,
   MapIcon,
 } from '@heroicons/react/24/outline';
 
